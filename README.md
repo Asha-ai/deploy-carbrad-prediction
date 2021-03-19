@@ -33,12 +33,10 @@ Select Source Model. A pre-trained source model is chosen from available models.
 python app.py
 #### step:4 - you will get a flask link to predict locally http://127.0.0.1:5000/
 we can see the below screen then upload car image and let the model to predict 
-
-
-
-
-
-
+![pred-car](https://user-images.githubusercontent.com/66937023/111770833-eb77bc80-88d0-11eb-88c8-83e828eed3b2.png)
 
 # Fallow my blog for deploying this DL model at Heroku - https://www.analyticsvidhya.com/blog/2021/02/ml-model-deployment-with-webhosting-frameworks/
+
+Try to go with Heroku paid service - if you get error like - Compiled slug size: 696.9M is too large (max is 500M).
+
 
