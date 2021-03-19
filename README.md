@@ -35,8 +35,11 @@ python app.py
 we can see the below screen then upload car image and let the model to predict 
 ![pred-car](https://user-images.githubusercontent.com/66937023/111770833-eb77bc80-88d0-11eb-88c8-83e828eed3b2.png)
 
-# Fallow my blog for deploying this DL model at Heroku - https://www.analyticsvidhya.com/blog/2021/02/ml-model-deployment-with-webhosting-frameworks/
+# Fallow ** my blog for deploying this DL model at Heroku - https://www.analyticsvidhya.com/blog/2021/02/ml-model-deployment-with-webhosting-frameworks/
 
-Try to go with Heroku paid service - if you get error like - Compiled slug size: 696.9M is too large (max is 500M).
+Try to go with Heroku paid service - if you get error as shown below - Compiled slug size: 696.9M is too large (max is 500M).
+![herokuerr](https://user-images.githubusercontent.com/66937023/111771219-6e007c00-88d1-11eb-8db3-fabe079c7e10.png)
+
+
 
 
