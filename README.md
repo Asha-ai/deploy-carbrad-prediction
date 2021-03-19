@@ -41,5 +41,3 @@ Try to go with Heroku paid service - if you get error as shown below - Compiled 
 ![herokuerr](https://user-images.githubusercontent.com/66937023/111771219-6e007c00-88d1-11eb-8db3-fabe079c7e10.png)
 
 
-
-
